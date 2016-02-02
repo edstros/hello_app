@@ -1,2 +1,3 @@
 # hello_app
-first app from the Hartl rails tutorial
+
+First app on the Hartl Rails tutorial.
